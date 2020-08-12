@@ -1,0 +1,13 @@
+//devcontainer.json
+{
+  "name": "Latex Environment",
+  "image": "tianon/latex",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "znck.grammarly",
+    "james-yu.latex-workshop",
+    "editorconfig.editorconfig",
+  ],
+}

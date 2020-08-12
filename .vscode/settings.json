@@ -1,0 +1,12 @@
+{
+  // Exclude auxiliary files from the editor.
+  "files.exclude": {
+    "*/*.aux": true,
+    "*/*.bbl": true,
+    "*/*.blg": true,
+    "*/*.log": true,
+    "*/*.synctex.gz": true
+  },
+  // Output generated files to doc directory.
+  "latex-workshop.latex.outDir": "./doc",
+}
